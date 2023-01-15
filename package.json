@@ -1,6 +1,7 @@
 {
   "name": "Videodle",
   "private": true,
+  "homepage": "https://kevinmorris1.github.io/Videodle/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
